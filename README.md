@@ -26,7 +26,7 @@ If you appreciate my work or find it useful, you can support me by buying me a c
 
 ## Licence
 
-NOVEL NODE Player as source is following NOVEL NODE licensed under the [AGPL3](LICENSE.md) licence. Games playbacked using it can follow their own licence.
+NOVEL NODE Player as source is following NOVEL NODE licensed under the [LGPL3](LICENSE.md) licence. Games playbacked using it can follow their own licence.
 
 ## Screenshots
 
