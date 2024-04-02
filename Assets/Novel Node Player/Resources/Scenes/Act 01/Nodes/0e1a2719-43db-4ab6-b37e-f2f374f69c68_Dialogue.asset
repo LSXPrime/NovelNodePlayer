@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd449a9f51ea7f4886d7e65f8761fc9, type: 3}
+  m_Name: 0e1a2719-43db-4ab6-b37e-f2f374f69c68_Dialogue
+  m_EditorClassIdentifier: 
+  Guid: 0e1a2719-43db-4ab6-b37e-f2f374f69c68
+  Previous: 85116274-048a-45dd-af67-c1facb5e6f1c
+  Next: 70ee691a-3964-404f-b296-e30c4517cadd
+  Input:
+  - ID: 831b46e9-2d2e-42cd-86bf-0f2874e484a1
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: a791dda5-0d43-48a7-bd6e-228413e92f5a
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Nause
+  Lines:
+  - Text: Pretty much. But hey, sometimes there's beauty in the bleakness, you know?
+      Like finding a glimmer of hope in the darkest of nights.
+    CharacterSprite: Gaze Up
+    CharacterAudio: 
+  - Text: Or maybe I'm just trying to make myself feel better about all the doom
+      and gloom.
+    CharacterSprite: Awkward
+    CharacterAudio: 

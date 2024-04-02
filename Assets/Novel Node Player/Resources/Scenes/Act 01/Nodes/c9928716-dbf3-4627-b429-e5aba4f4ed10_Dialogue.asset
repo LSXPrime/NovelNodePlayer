@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd449a9f51ea7f4886d7e65f8761fc9, type: 3}
+  m_Name: c9928716-dbf3-4627-b429-e5aba4f4ed10_Dialogue
+  m_EditorClassIdentifier: 
+  Guid: c9928716-dbf3-4627-b429-e5aba4f4ed10
+  Previous: 9af53023-2ed4-49eb-b45b-495d02054482
+  Next: e2126844-b014-4e7b-8047-79f0187d1d4f
+  Input:
+  - ID: 96882eed-ddcb-45ca-8dd1-e830f54ae8ec
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: 0cfd1dfa-0c6a-480f-a22b-c7b92cfc9ef5
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Player
+  Lines:
+  - Text: Then I would be happy that I helped in that.
+    CharacterSprite: 
+    CharacterAudio: 

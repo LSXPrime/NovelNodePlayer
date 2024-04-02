@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 240a83dd5f3da2f46bb9a3f8c8ea57fb, type: 3}
+  m_Name: Blackboard
+  m_EditorClassIdentifier: 
+  Name: Player Acts
+  ID: 0
+  Strings: []
+  Floats:
+  - Key: Cheerful
+    Value:
+      String: 
+      Float: 1
+      Boolean: 0
+      Sprite: {fileID: 0}
+    Type: 1
+  Booleans: []

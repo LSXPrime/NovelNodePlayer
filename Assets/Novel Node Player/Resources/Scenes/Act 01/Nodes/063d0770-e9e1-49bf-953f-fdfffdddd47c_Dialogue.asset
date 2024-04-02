@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd449a9f51ea7f4886d7e65f8761fc9, type: 3}
+  m_Name: 063d0770-e9e1-49bf-953f-fdfffdddd47c_Dialogue
+  m_EditorClassIdentifier: 
+  Guid: 063d0770-e9e1-49bf-953f-fdfffdddd47c
+  Previous: e6327f32-e459-4157-a364-70af008b5c3f
+  Next: d79abe49-3247-40a5-a262-1e96b84be201
+  Input:
+  - ID: 34c7255c-3a28-478a-85a4-0dd79d7fff18
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: 2df6a3e6-9165-4470-a720-2b1e906b6fda
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Nause
+  Lines:
+  - Text: Admirable choice, {Player}. Let's see where that takes us.
+    CharacterSprite: Serious
+    CharacterAudio: 
+  - Text: So, you extend a hand to the struggling soul, offering a glimmer of hope
+      amidst the darkness.
+    CharacterSprite: Answering
+    CharacterAudio: 
+  - Text: Your kindness doesn't go unnoticed as the character opens up, revealing
+      their inner turmoil.
+    CharacterSprite: Answering
+    CharacterAudio: 

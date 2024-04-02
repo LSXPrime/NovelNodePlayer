@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd449a9f51ea7f4886d7e65f8761fc9, type: 3}
+  m_Name: 4f31a3df-cc2a-4b57-b3c2-a9ecf52239e6_Dialogue
+  m_EditorClassIdentifier: 
+  Guid: 4f31a3df-cc2a-4b57-b3c2-a9ecf52239e6
+  Previous: 84b66b4c-d12d-4548-964a-f50d2d930e26
+  Next: 340e9eaa-c231-4a6e-b9be-b156a5222712
+  Input:
+  - ID: 3878a15a-5181-49b7-bf45-b6dfcb1ad83b
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: 7422dcf5-1e10-42e9-92be-1a6b535927e6
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Nause
+  Lines:
+  - Text: Hey there, {Player}. Welcome to the Visual Novel Creator. I'm Nause, your
+      guide through this... well, let's call it a journey through the murky depths
+      of storytelling.
+    CharacterSprite: Greeting
+    CharacterAudio: 

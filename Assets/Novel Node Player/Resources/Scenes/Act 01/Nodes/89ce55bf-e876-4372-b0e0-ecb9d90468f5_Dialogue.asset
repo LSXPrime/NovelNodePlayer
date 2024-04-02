@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd449a9f51ea7f4886d7e65f8761fc9, type: 3}
+  m_Name: 89ce55bf-e876-4372-b0e0-ecb9d90468f5_Dialogue
+  m_EditorClassIdentifier: 
+  Guid: 89ce55bf-e876-4372-b0e0-ecb9d90468f5
+  Previous: ddac688a-5d5c-4813-8915-9383e09d8290
+  Next: d0fd1a89-1d13-4f4b-82e3-450435894f80
+  Input:
+  - ID: f308a7db-73dd-47f1-b668-1f00a20cb374
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: e4f77e46-b773-4eeb-a249-313f513c4592
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Nause
+  Lines:
+  - Text: Your callousness is astounding. One day, when you're in need, remember
+      the indifference you've shown. It may come back to haunt you when you least
+      expect it.
+    CharacterSprite: Serious
+    CharacterAudio: 

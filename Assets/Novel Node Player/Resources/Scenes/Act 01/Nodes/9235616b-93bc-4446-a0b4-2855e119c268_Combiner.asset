@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67c583f46ad6dd047ab08a7f19198a53, type: 3}
+  m_Name: 9235616b-93bc-4446-a0b4-2855e119c268_Combiner
+  m_EditorClassIdentifier: 
+  Guid: 9235616b-93bc-4446-a0b4-2855e119c268
+  Previous: 5fcc0ef5-3247-40cb-bc21-2324db0745d0
+  Next: bf1d8e06-a158-49e3-8654-e0a44359dfa4
+  Input:
+  - ID: cfc60ed9-7416-4f2c-9189-5fcc06943aeb
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  - ID: bf4493a8-4c0b-4c03-842b-4c85b239a14c
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: 43b597ae-7a00-4fae-8418-5e15459d01aa
+    Title: 
+    IsConnected: 1
+    Flow: 1

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd449a9f51ea7f4886d7e65f8761fc9, type: 3}
+  m_Name: 9af53023-2ed4-49eb-b45b-495d02054482_Dialogue
+  m_EditorClassIdentifier: 
+  Guid: 9af53023-2ed4-49eb-b45b-495d02054482
+  Previous: d79abe49-3247-40a5-a262-1e96b84be201
+  Next: c9928716-dbf3-4627-b429-e5aba4f4ed10
+  Input:
+  - ID: fc5b3235-c4fb-453c-8fa4-21f874fd6700
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: 3c640c97-988c-4df7-904e-5134e4ac91bf
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Nause
+  Lines:
+  - Text: Your actions set off a chain of events that could lead to redemption.
+    CharacterSprite: Serious
+    CharacterAudio: 

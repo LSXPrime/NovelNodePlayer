@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b0921ca3cf1c5f4e82e0fe935cdce3e, type: 3}
+  m_Name: Scene
+  m_EditorClassIdentifier: 
+  Name: Act 01
+  ID: 0
+  Nodes:
+  - {fileID: 11400000, guid: 8332c571b824fe04e9af86ae26ea8c14, type: 2}
+  - {fileID: 11400000, guid: 3a02357075e77c643bf51b92a2be4e4a, type: 2}
+  - {fileID: 11400000, guid: cfb6c618f146ca44dac1ef9b75e87a94, type: 2}
+  - {fileID: 11400000, guid: e08563e252814d54495efe050dda0642, type: 2}
+  - {fileID: 11400000, guid: a39eadc4bde13c84fa2f0f79be25e04f, type: 2}
+  - {fileID: 11400000, guid: 390a70dc3f944b64c97b947b63938c2e, type: 2}
+  - {fileID: 11400000, guid: 74f491d7845f81b4c806734facfa51fb, type: 2}
+  - {fileID: 11400000, guid: 6a3d164123c0b9c45ae90d0ea9bf675a, type: 2}
+  - {fileID: 11400000, guid: f331fc74f902ba946b393dcfbc07ce20, type: 2}
+  - {fileID: 11400000, guid: ae7d5c6efe20ca74db9d647d86809975, type: 2}
+  - {fileID: 11400000, guid: 837cba240c1dd70408ec2abe727abe3c, type: 2}
+  - {fileID: 11400000, guid: e664e3312ef6a214289759fee3ebbbff, type: 2}
+  - {fileID: 11400000, guid: 96591576fbd2ced41bbe31aaeb3ad7c2, type: 2}
+  - {fileID: 11400000, guid: dbace822659c38341a6bbc51c7d4e6ef, type: 2}
+  - {fileID: 11400000, guid: 0a9c69bb262fc3c41854fac24882e4e0, type: 2}
+  - {fileID: 11400000, guid: 9d34bcf3af7ca0343af16e539960b3b5, type: 2}
+  - {fileID: 11400000, guid: d5d09745ac1c2014dacb5e048accdee4, type: 2}
+  - {fileID: 11400000, guid: c508708b187d60c4a9a755a61b3dddb0, type: 2}
+  - {fileID: 11400000, guid: e0d706363cd360c44b5ecd230a276255, type: 2}
+  - {fileID: 11400000, guid: 836530adc4a26514da1084ba5818a120, type: 2}
+  - {fileID: 11400000, guid: 827155f5aaf7a3341afc8ae48d8985b2, type: 2}
+  - {fileID: 11400000, guid: 3e5bce36245e08a43b769d64477787ee, type: 2}
+  - {fileID: 11400000, guid: a413bde61114a5f47ab273f5389b100f, type: 2}
+  - {fileID: 11400000, guid: 53af7a5fe7acb7a48a1b678938b0b3e9, type: 2}
+  - {fileID: 11400000, guid: a2bdebfb450993742bd43ee20dbb7eb4, type: 2}
+  - {fileID: 11400000, guid: 5c39b9098624f8e41ab834fbc436e5ca, type: 2}
+  - {fileID: 11400000, guid: 1a280713df2f755438069c8ee9bb54e0, type: 2}
+  - {fileID: 11400000, guid: 4d15b6d5c03387d4683395e5997c2850, type: 2}
+  - {fileID: 11400000, guid: 2fe7e051a9056ae499a235016ebb2b22, type: 2}
+  - {fileID: 11400000, guid: 7ca5297fd230e0443aacc0d66b531db4, type: 2}
+  - {fileID: 11400000, guid: 8e75ad853b8fc064f863f6a69c26f29c, type: 2}
+  - {fileID: 11400000, guid: 65988605c9cbf20419108a686834c4d4, type: 2}
+  - {fileID: 11400000, guid: 2d2f9102a3501c249a5ad12ba1b996ed, type: 2}
+  - {fileID: 11400000, guid: 8a62bfd9887fa0442ab2e221bc5f42a8, type: 2}
+  Connections:
+  - SourceID: 64533ea2-b671-4cc7-9528-6a1dcd78cf7f
+    TargetID: 3878a15a-5181-49b7-bf45-b6dfcb1ad83b
+  - SourceID: 7422dcf5-1e10-42e9-92be-1a6b535927e6
+    TargetID: 11e1cc5b-dfa2-4e7e-a0d6-1d947aa0df7d
+  - SourceID: 8394098a-fb49-424a-92eb-05a764cc4990
+    TargetID: 745973c0-7769-46a5-ba74-ec9647c969ae
+  - SourceID: 5c965ef7-18c2-477a-a070-cd4a03417d73
+    TargetID: 80ef843e-2e07-47c6-afb1-5c53281cf2dc
+  - SourceID: 396f15db-b747-45be-99bc-481e1044f76d
+    TargetID: 831b46e9-2d2e-42cd-86bf-0f2874e484a1
+  - SourceID: a791dda5-0d43-48a7-bd6e-228413e92f5a
+    TargetID: 491b9453-d5f1-4ad9-82e3-40bd699c4ade
+  - SourceID: f55f9587-9a38-44b2-8e08-b5afd13402df
+    TargetID: d6da50de-6347-4a6f-9084-77774f3ab0e0
+  - SourceID: 13464b9f-c7a9-49ce-a839-2e0cccd60ad2
+    TargetID: 062b2534-a71a-405c-b01f-f06ef336ca90
+  - SourceID: 11335631-a036-4d8b-acdf-cd3bd48633b0
+    TargetID: 307384e1-b89a-4746-bd4c-d134c3381b87
+  - SourceID: d3ae2d71-7fe7-4643-bd09-d5de743e9ca7
+    TargetID: 34c7255c-3a28-478a-85a4-0dd79d7fff18
+  - SourceID: e426178a-5885-4f04-b4e4-22d20c78fd3c
+    TargetID: 5cc74b8b-f36a-49db-99cc-ff7ed3b2c843
+  - SourceID: 327256ed-21ac-457f-8dec-f6e969b760de
+    TargetID: 6c2dfbe6-4ae4-4393-a4bf-29d26df31152
+  - SourceID: e55eeda2-61dd-465d-a357-2965ad0ab295
+    TargetID: bbcc9d01-5494-4cf1-a8dc-f8b4565adad3
+  - SourceID: 2df6a3e6-9165-4470-a720-2b1e906b6fda
+    TargetID: 2f18510b-2b71-49fb-a124-dc9a732bf2ad
+  - SourceID: 888ea053-43e8-44a5-b644-0a979ccd3263
+    TargetID: fc5b3235-c4fb-453c-8fa4-21f874fd6700
+  - SourceID: d2760e1f-3aa4-44b3-b4f9-d7d4beae7b4b
+    TargetID: 72d5d70f-7f4c-4902-a3d2-cefab6a026ed
+  - SourceID: 3c640c97-988c-4df7-904e-5134e4ac91bf
+    TargetID: 96882eed-ddcb-45ca-8dd1-e830f54ae8ec
+  - SourceID: 158acdc9-4388-4092-b1b2-f448302eaf91
+    TargetID: 654fe0ea-2dc4-47f4-b03b-445f5a540d87
+  - SourceID: a00efbb6-a052-4739-93b5-7cca3d3fe2d7
+    TargetID: 3dc37851-5164-4643-8086-96217b663140
+  - SourceID: 8b152634-dc29-41d8-b878-20c1783f37fd
+    TargetID: cfc60ed9-7416-4f2c-9189-5fcc06943aeb
+  - SourceID: 53e39022-0da9-4bba-a1d3-0d79a600b796
+    TargetID: bf4493a8-4c0b-4c03-842b-4c85b239a14c
+  - SourceID: 43b597ae-7a00-4fae-8418-5e15459d01aa
+    TargetID: 1f0de8fc-1ab3-4750-a877-a39bb0ae4f9b
+  - SourceID: 0cfd1dfa-0c6a-480f-a22b-c7b92cfc9ef5
+    TargetID: 3dfe142b-dc0f-4d6e-8e24-53034826422b
+  - SourceID: 65ef6ccc-a5cd-4fb3-a800-87055adcb20f
+    TargetID: ef0049cc-2a67-49ef-8d03-5a55adb05f8a
+  - SourceID: b0c49692-65e0-44d3-a33f-b207e3f6915e
+    TargetID: 78f3e1bf-c223-4f6a-98a6-1f815df23532
+  - SourceID: 7cfd8bbb-e171-4a04-b90f-69be83c8eefb
+    TargetID: f308a7db-73dd-47f1-b668-1f00a20cb374
+  - SourceID: 3a73e6b0-399a-4c9f-8b5d-614690ec5a87
+    TargetID: ed7b2db9-5aa4-4ceb-9b9a-8c834f159d6c
+  - SourceID: a87a457d-561a-453f-a399-2f93c9de8209
+    TargetID: 5623f131-759c-474e-811a-49bd0a9ce9be
+  - SourceID: 5d200433-73f7-4104-b791-ce648cd0808b
+    TargetID: a52880dc-7263-43c4-8a4c-b509c42d77ab
+  - SourceID: f6637f8c-a7d2-41d7-8363-eccbb6168993
+    TargetID: ea9320d3-c964-4044-aec8-c6d3ccb58baf
+  - SourceID: 2781cc5a-058d-4fa8-83dc-be7c3579a1c5
+    TargetID: 023e546d-8b70-4ab7-8793-cae337f6b669
+  - SourceID: d303439a-3f3a-4ee9-a519-f13d7cd21863
+    TargetID: 5615b2fb-4565-401c-82ce-7ed139901066
+  - SourceID: ef2754a0-822a-4081-a901-3d344ca42d2a
+    TargetID: a50ab4ed-ad99-48a7-9897-0c5f3e90af62
+  - SourceID: 43bca483-5ef7-4aaa-bc23-aaca22c0e842
+    TargetID: 2f744c27-eb8e-444a-a899-cfc2236f25e0
+  - SourceID: b1bd0007-2054-4fdb-bc02-7517fc7b9c7b
+    TargetID: 6f773790-845d-4e34-8e83-cbc0eca32319
+  - SourceID: e4f77e46-b773-4eeb-a249-313f513c4592
+    TargetID: 4a30421b-7aa3-4411-9b04-4cf447b0ee28
+  - SourceID: a88f10ae-aca3-413c-8485-b5ef007719c9
+    TargetID: 5435fb9a-d230-448d-a39c-81565a5be7a2
+  Backgrounds:
+  - Key: Library
+    Value:
+      String: Scenes\Act 01\Backgrounds\Library.png
+      Float: 0
+      Boolean: 0
+      Sprite: {fileID: 21300000, guid: 41c7d5feaf9b4234389333acf5d8dd9b, type: 3}
+    Type: 0
+  Sounds:
+  - Name: BG
+    Path: Scenes\Act 01\Sounds\BG.wav
+    Audio: {fileID: 8300000, guid: e3495d61f60aa5d4284f433b030d4a44, type: 3}
+    State: 0

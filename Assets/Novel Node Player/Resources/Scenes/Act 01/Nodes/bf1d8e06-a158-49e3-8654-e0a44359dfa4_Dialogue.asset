@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd449a9f51ea7f4886d7e65f8761fc9, type: 3}
+  m_Name: bf1d8e06-a158-49e3-8654-e0a44359dfa4_Dialogue
+  m_EditorClassIdentifier: 
+  Guid: bf1d8e06-a158-49e3-8654-e0a44359dfa4
+  Previous: 9235616b-93bc-4446-a0b4-2855e119c268
+  Next: 85116274-048a-45dd-af67-c1facb5e6f1c
+  Input:
+  - ID: 1f0de8fc-1ab3-4750-a877-a39bb0ae4f9b
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: 5c965ef7-18c2-477a-a070-cd4a03417d73
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Nause
+  Lines:
+  - Text: Yeah, cheerful like a funeral. But hey, that's life, right? Full of twists,
+      turns, and the occasional gut punch.
+    CharacterSprite: Awkward
+    CharacterAudio: 
+  - Text: And in this place, your choices? They matter. They can lift someone up
+      or tear 'em down faster than you can say "existential crisis."
+    CharacterSprite: Serious
+    CharacterAudio: 

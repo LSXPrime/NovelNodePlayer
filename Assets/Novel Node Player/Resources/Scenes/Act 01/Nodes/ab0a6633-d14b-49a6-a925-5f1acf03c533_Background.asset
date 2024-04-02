@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a78983dc0ffe1c4d84293240cfddf51, type: 3}
+  m_Name: ab0a6633-d14b-49a6-a925-5f1acf03c533_Background
+  m_EditorClassIdentifier: 
+  Guid: ab0a6633-d14b-49a6-a925-5f1acf03c533
+  Previous: a2d56c6a-44ea-4d76-9ff5-9d7b00d2b574
+  Next: 84b66b4c-d12d-4548-964a-f50d2d930e26
+  Input:
+  - ID: 023e546d-8b70-4ab7-8793-cae337f6b669
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: f6637f8c-a7d2-41d7-8363-eccbb6168993
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  AssetType: 1
+  Background: Library
+  FadeTime: 1
+  Loop: 0
+  State: 0

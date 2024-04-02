@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd449a9f51ea7f4886d7e65f8761fc9, type: 3}
+  m_Name: 3023d587-cd7f-4f52-8de8-03743ffc350e_Dialogue
+  m_EditorClassIdentifier: 
+  Guid: 3023d587-cd7f-4f52-8de8-03743ffc350e
+  Previous: e6327f32-e459-4157-a364-70af008b5c3f
+  Next: c43b6029-f874-4d48-a0eb-71738e083835
+  Input:
+  - ID: ef0049cc-2a67-49ef-8d03-5a55adb05f8a
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: 3a73e6b0-399a-4c9f-8b5d-614690ec5a87
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Nause
+  Lines:
+  - Text: You choose to ignore the troubled soul, turning a blind eye to their suffering.
+    CharacterSprite: Gaze Up
+    CharacterAudio: 
+  - Text: 'As you walk away, you can''t shake the feeling of guilt gnawing at your
+      conscience. '
+    CharacterSprite: Awkward
+    CharacterAudio: 
+  - Text: Your decision sets a somber tone, leaving the character to grapple with
+      their demons alone.
+    CharacterSprite: Awkward
+    CharacterAudio: 

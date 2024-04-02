@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd449a9f51ea7f4886d7e65f8761fc9, type: 3}
+  m_Name: e2126844-b014-4e7b-8047-79f0187d1d4f_Dialogue
+  m_EditorClassIdentifier: 
+  Guid: e2126844-b014-4e7b-8047-79f0187d1d4f
+  Previous: c9928716-dbf3-4627-b429-e5aba4f4ed10
+  Next: d0fd1a89-1d13-4f4b-82e3-450435894f80
+  Input:
+  - ID: 3dfe142b-dc0f-4d6e-8e24-53034826422b
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: ef2754a0-822a-4081-a901-3d344ca42d2a
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Nause
+  Lines:
+  - Text: Indeed, {Player}. Your empathy and compassion may just be the catalyst
+      for a transformative journey.
+    CharacterSprite: Answering
+    CharacterAudio: 
+  - Text: But remember, the path to redemption is often fraught with challenges and
+      uncertainties. It's a journey that demands courage and resilience.
+    CharacterSprite: Gaze Up
+    CharacterAudio: 

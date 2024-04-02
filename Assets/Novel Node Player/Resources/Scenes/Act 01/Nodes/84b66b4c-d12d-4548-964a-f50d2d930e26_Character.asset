@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c73ef876f9db7ad4996436587de92b47, type: 3}
+  m_Name: 84b66b4c-d12d-4548-964a-f50d2d930e26_Character
+  m_EditorClassIdentifier: 
+  Guid: 84b66b4c-d12d-4548-964a-f50d2d930e26
+  Previous: ab0a6633-d14b-49a6-a925-5f1acf03c533
+  Next: 4f31a3df-cc2a-4b57-b3c2-a9ecf52239e6
+  Input:
+  - ID: ea9320d3-c964-4044-aec8-c6d3ccb58baf
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: 64533ea2-b671-4cc7-9528-6a1dcd78cf7f
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Nause
+  Sprite: Greeting
+  Position: 65
+  FadeTime: 0.25
+  State: 0

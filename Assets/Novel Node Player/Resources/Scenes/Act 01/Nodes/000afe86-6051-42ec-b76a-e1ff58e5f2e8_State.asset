@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d78bc20822415c49b8d35929f10199a, type: 3}
+  m_Name: 000afe86-6051-42ec-b76a-e1ff58e5f2e8_State
+  m_EditorClassIdentifier: 
+  Guid: 000afe86-6051-42ec-b76a-e1ff58e5f2e8
+  Previous: d0fd1a89-1d13-4f4b-82e3-450435894f80
+  Next: 00000000-0000-0000-0000-000000000000
+  Input:
+  - ID: 5435fb9a-d230-448d-a39c-81565a5be7a2
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output: []
+  State: 1

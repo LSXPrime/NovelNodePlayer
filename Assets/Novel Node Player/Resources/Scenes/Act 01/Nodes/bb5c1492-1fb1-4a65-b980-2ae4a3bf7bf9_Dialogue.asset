@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd449a9f51ea7f4886d7e65f8761fc9, type: 3}
+  m_Name: bb5c1492-1fb1-4a65-b980-2ae4a3bf7bf9_Dialogue
+  m_EditorClassIdentifier: 
+  Guid: bb5c1492-1fb1-4a65-b980-2ae4a3bf7bf9
+  Previous: 0ada38f4-8f2d-480a-b932-f52a80aeccb5
+  Next: d0fd1a89-1d13-4f4b-82e3-450435894f80
+  Input:
+  - ID: 78f3e1bf-c223-4f6a-98a6-1f815df23532
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: b1bd0007-2054-4fdb-bc02-7517fc7b9c7b
+    Title: 
+    IsConnected: 1
+    Flow: 1
+  Character: Nause
+  Lines:
+  - Text: Perhaps. But in this realm, there are no right or wrong answers, only consequences.
+      The path you've chosen may lead to regret... or it may reveal something deeper
+      about yourself.
+    CharacterSprite: Gaze Up
+    CharacterAudio: 

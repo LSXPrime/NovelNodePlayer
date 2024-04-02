@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95108fc529eed5441b80f6f2ecbac150, type: 3}
+  m_Name: d79abe49-3247-40a5-a262-1e96b84be201_Condition
+  m_EditorClassIdentifier: 
+  Guid: d79abe49-3247-40a5-a262-1e96b84be201
+  Previous: 063d0770-e9e1-49bf-953f-fdfffdddd47c
+  Next: 4bccc519-e1a2-4f41-b85d-bda7a2e79eb5
+  Input:
+  - ID: 2f18510b-2b71-49fb-a124-dc9a732bf2ad
+    Title: 
+    IsConnected: 1
+    Flow: 0
+  Output:
+  - ID: 888ea053-43e8-44a5-b644-0a979ccd3263
+    Title: Yes
+    IsConnected: 1
+    Flow: 1
+  - ID: d2760e1f-3aa4-44b3-b4f9-d7d4beae7b4b
+    Title: No
+    IsConnected: 1
+    Flow: 1
+  BlackboardName: Player Acts
+  BlackboardKey: Cheerful
+  BlackboardType: 1
+  Operator: 2
+  CompareValue: 0
